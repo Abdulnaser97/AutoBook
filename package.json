@@ -1,0 +1,22 @@
+{
+  "name": "AutoBook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^90.0.0",
+    "geckodriver": "^2.0.0",
+    "macos-audio-devices": "^1.4.0",
+    "prompt": "^1.1.0",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "xlsx": "^0.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
