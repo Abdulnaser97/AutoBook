@@ -63,19 +63,6 @@ async function processArguments(
     abort = true;
   }
 
-  // exclude sat and thu from the recurring gym booking
-  if (dayOfMonth === "lastAvailable") {
-    if (
-      dayToDate("sat") === processedDayOfMonth ||
-      dayToDate("thu") === processedDayOfMonth
-    ) {
-      console.log(
-        "lastAvailable is sat or thu, taken care of by the other cron tasks"
-      );
-      abort = true;
-    }
-  }
-
   return {
     processedCredentialsList: processedCredentialsList,
     processedDayOfMonth: processedDayOfMonth,
@@ -105,13 +92,21 @@ async function openLogs(hr, weekDay, dayOfMonth, amenityType) {
 
 async function openSheet() {
   try {
+    const { stdoutPKill } = await exec(`pkill -x 'Microsoft Excel'`);
+    await sleep(2000);
     const { stdout } = await exec(
       `cd /Users/naser/Desktop/Projects/AutoBook && open bookingHistory.xls`
     );
     console.log(stdout);
   } catch (e) {
-    console.log(`ERROR: logFile: unable to open logFile. Error: ${e}`);
+    console.log(`ERROR: openSheet(): ${e}`);
   }
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
 }
 
 module.exports = {
