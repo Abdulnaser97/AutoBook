@@ -1,7 +1,7 @@
 {
 	"drawioXML": "<mxfile>\n  <diagram id=\"P-iAADUYHuwpvgJxJL4P\" name=\"Page-1\">\n    <mxGraphModel dx=\"2286\" dy=\"929\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"1\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"shadow=0;\" parent=\"0\" />\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-3\" value=\"\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=23;targetPerimeterSpacing=15;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;\" parent=\"1\" source=\"7tVP8rpjMgJqhHP-Nk0p-1\" target=\"7tVP8rpjMgJqhHP-Nk0p-2\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-1\" value=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;shadow=0;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"-365\" y=\"311\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-7\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=23;targetPerimeterSpacing=15;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;\" parent=\"1\" source=\"7tVP8rpjMgJqhHP-Nk0p-2\" target=\"7tVP8rpjMgJqhHP-Nk0p-6\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"_z6gDhundTX4EhPD3MXL-1\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=23;targetPerimeterSpacing=15;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;\" parent=\"1\" source=\"7tVP8rpjMgJqhHP-Nk0p-2\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <mxPoint x=\"231.5\" y=\"580.5\" as=\"targetPoint\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-2\" value=\"2\" style=\"rounded=1;whiteSpace=wrap;html=1;shadow=0;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"-59\" y=\"311\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-4\" value=\"3\" style=\"rounded=1;whiteSpace=wrap;html=1;shadow=0;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"-79\" y=\"538\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-9\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=23;targetPerimeterSpacing=15;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;\" parent=\"1\" source=\"7tVP8rpjMgJqhHP-Nk0p-5\" target=\"7tVP8rpjMgJqhHP-Nk0p-4\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"GymBookerCLI.js\" value=\"GymBookerCLI.js\" id=\"7tVP8rpjMgJqhHP-Nk0p-5\">\n          <mxCell style=\"shadow=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-392\" y=\"538\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"7tVP8rpjMgJqhHP-Nk0p-8\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=37;fontColor=default;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=23;targetPerimeterSpacing=15;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;\" parent=\"1\" source=\"7tVP8rpjMgJqhHP-Nk0p-6\" target=\"7tVP8rpjMgJqhHP-Nk0p-5\" edge=\"1\">\n          <mxGeometry relative=\"1\" as=\"geometry\" />\n        </mxCell>\n        <UserObject label=\"GymBookerCLIUtils.js\" value=\"GymBookerCLIUtils.js\" id=\"7tVP8rpjMgJqhHP-Nk0p-6\">\n          <mxCell style=\"shadow=0;\" parent=\"1\" vertex=\"1\">\n            <mxGeometry x=\"-235\" y=\"430\" width=\"120\" height=\"60\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"_z6gDhundTX4EhPD3MXL-2\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;shadow=0;\" parent=\"1\" vertex=\"1\">\n          <mxGeometry x=\"161\" y=\"580\" width=\"120\" height=\"60\" as=\"geometry\" />\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
 	"fileName": "AutoBook.CodeCanvas",
-	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/AutoBook/24c5b9b8dc723d74d5f2bafd0df6f7c2d5ebb1b0/AutoBook.CodeCanvas",
+	"fileURL": "https://raw.githubusercontent.com/Abdulnaser97/AutoBook/58e3a00cab9f81f67fdc90e6c85ce17f5cbd69b2/AutoBook.CodeCanvas",
 	"repoData": {
 		"GymBooker.js": {
 			"path": "GymBooker.js",
@@ -65,7 +65,52 @@
 			"visible": true
 		}
 	},
-	"simulations": {},
+	"simulations": {
+		"mySim": {
+			"name": "mySim",
+			"simSteps": [
+				{
+					"simStepId": "779f9304-6eba-4e44-965e-2221c8a4c8fd",
+					"diagramNodeId": "7tVP8rpjMgJqhHP-Nk0p-1",
+					"simStepLabel": "1",
+					"simStepDescription": "",
+					"isEdge": false
+				},
+				{
+					"simStepId": "f0a73d2c-70fa-46ed-82f7-0c265a91fcc8",
+					"diagramNodeId": "7tVP8rpjMgJqhHP-Nk0p-3",
+					"simStepLabel": "",
+					"simStepDescription": "",
+					"isEdge": 1
+				},
+				{
+					"simStepId": "bb413b23-bd44-4248-97ee-d5845c015078",
+					"diagramNodeId": "7tVP8rpjMgJqhHP-Nk0p-2",
+					"simStepLabel": "2",
+					"simStepDescription": "",
+					"isEdge": false
+				}
+			],
+			"simulationNodesAndEdges": {
+				"7tVP8rpjMgJqhHP-Nk0p-1": {
+					"simStepIds": [
+						"779f9304-6eba-4e44-965e-2221c8a4c8fd"
+					]
+				},
+				"7tVP8rpjMgJqhHP-Nk0p-3": {
+					"simStepIds": [
+						"f0a73d2c-70fa-46ed-82f7-0c265a91fcc8"
+					]
+				},
+				"7tVP8rpjMgJqhHP-Nk0p-2": {
+					"simStepIds": [
+						"bb413b23-bd44-4248-97ee-d5845c015078"
+					]
+				}
+			},
+			"description": ""
+		}
+	},
 	"cellToPath": {
 		"7tVP8rpjMgJqhHP-Nk0p-4": "GymBooker.js",
 		"7tVP8rpjMgJqhHP-Nk0p-5": "GymBookerCLI.js",
