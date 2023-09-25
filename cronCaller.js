@@ -9,7 +9,7 @@ const SCRIPT = "GymBookerCLI";
 
 const {} = require("./Utils");
 const { cmds } = require("./UserDetails");
-
+// Some other edit
 async function cronCaller() {
   var bookingTime;
   var amenityType;
