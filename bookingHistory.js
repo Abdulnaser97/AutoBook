@@ -10,7 +10,7 @@ async function logBooking(bookingEntry) {
   } catch (e) {
     if (!workbook) {
       workbook = XLSX.utils.book_new(); // Create xlsx book
-
+      // TEST
       const data = [];
       data.push([
         "Script Run Date",
@@ -71,7 +71,7 @@ async function getLastBooking() {
 
   /* Get worksheet */
   let worksheet = workbook.Sheets[first_sheet_name];
-
+  // TEST
   // Get the names column
   const bookingRow = await XLSX.utils.sheet_to_json(worksheet, {
     header: "A",
