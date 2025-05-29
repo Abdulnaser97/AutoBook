@@ -9,7 +9,7 @@ var element = webdriver.WebElement;
 async function Login(driver, credentials) {
   let UNField = await getElement(driver, `.//input[@id="username"]`);
   await UNField.sendKeys(credentials.userName);
-
+  // TEST
   let pwdField = await getElement(driver, `.//input[@id="password"]`);
   await pwdField.sendKeys(credentials.password);
 
